@@ -20,4 +20,4 @@ Email: hugo.lima5900@gmail.com
 
 Linkedin: [Hugo Lima](https://www.linkedin.com/in/hugo-lima-539603199/)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/HugoLima-590/blob/output/github-contribution-grid-snake.svg)
