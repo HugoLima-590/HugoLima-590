@@ -15,3 +15,7 @@
 📫 Você pode me encontrar aqui no GitHub, onde compartilho meus projetos e contribuo para a comunidade de desenvolvedores.
 
 Vamos juntos nessa jornada de aprendizado e inovação!
+
+Email: hugo.lima5900@gmail.com
+
+Linkedin: [Hugo Lima](https://www.linkedin.com/in/hugo-lima-539603199/)
