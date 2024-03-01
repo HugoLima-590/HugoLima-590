@@ -2,7 +2,7 @@
 
 👋 Olá, eu sou Hugo Lima.
 
-🎓 Atualmente estou estudando Sistemas de Informação na FHO Uniararas e atualmente estou no 6° periodo.
+🎓 Atualmente estou estudando Sistemas de Informação na FHO Uniararas e atualmente estou no 7° periodo.
 
 💻 Sou apaixonado por programação, especialmente no desenvolvimento voltado para o back-end. Gosto de criar soluções eficientes e escaláveis, além de me desafiar a aprender novas tecnologias a cada dia.
 
