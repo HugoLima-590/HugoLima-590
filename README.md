@@ -6,7 +6,7 @@
 
 💻 Sou apaixonado por programação, especialmente no desenvolvimento voltado para o back-end. Gosto de criar soluções eficientes e escaláveis, além de me desafiar a aprender novas tecnologias a cada dia.
 
-🌱 Estou constantemente aprimorando minhas habilidades em diversas linguagens, como PHP e C#, e explorando frameworks populares, como VueJs e Laravel.
+🌱 Estou constantemente aprimorando minhas habilidades em diversas linguagens, como C#, Solidity, JavaScript e explorando frameworks populares, como VueJs.
 
 ⚡ Além do desenvolvimento de software, também tenho interesse em bancos de dados, segurança da informação e arquitetura de sistemas.
 
